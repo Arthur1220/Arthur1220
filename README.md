@@ -5,8 +5,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&theme=vision-friendly-dark" alt="Arthur's most languages"/>
 </p>
 
-##
-
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
