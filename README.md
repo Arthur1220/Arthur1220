@@ -1,6 +1,5 @@
 <h1 align="left">Oi 👊, Eu sou Arthur</h1>
 
-## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&theme=vision-friendly-dark" alt="Arthur's most languages"/>
 </p>
