@@ -1,4 +1,4 @@
-<h1 align="left">Oi 👊, eu sou Arthur, estudante de ciencia da computacao.</h1>
+<h1 align="left">Oi 👊, eu sou Arthur, estudante de Ciência da Computação.</h1>
 
 ## ⚙️ &nbsp;Linguagens mais utilizadas
 <p align="left">
