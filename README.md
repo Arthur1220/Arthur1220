@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👊, I'm Arthur</h1>
+<h1 align="left">Oi 👊, Eu sou Arthur</h1>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
