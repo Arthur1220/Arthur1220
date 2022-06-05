@@ -1,9 +1,17 @@
 <h1 align="left">Oi 👊, eu sou Arthur, estudante de Ciência da Computação.</h1>
 
-## ⚙️ &nbsp;Linguagens mais utilizadas
+## ⚙️ &nbsp;Stats Github
+<div align="center">
+  <a href="https://github.com/Arthur1220">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
+  
+<!-- 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&theme=vision-friendly-dark" alt="Arthur's most languages"/>
 </p>
+-->
 
 ## 🛠 &nbsp;Linguagens
 <div style="display: inline_block"><br>
