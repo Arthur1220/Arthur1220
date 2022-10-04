@@ -13,10 +13,17 @@ const User = {
 
 ## ⚙️ &nbsp;Stats Github
 
+<div align="center">
+  
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
     <img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&theme=gotham&show_icons=true&hide=prs,issues,contribs">
     <img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&theme=gotham&hide=assembly,tex,roff">
   </div>
+
+  <div style="height: 20px"></div>
+
+</div>
+
 
 <a href="https://github.com/Arthur1220/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&hide=contribs,prs&show_icons=true&theme=vision-friendly-dark"/>
