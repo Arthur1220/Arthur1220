@@ -32,6 +32,5 @@ const User = {
   <img align="center" alt="Arthur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=arthurmarquesazevedo&unique={true|1|on|yes})
-
+## &nbsp;Spotify
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=arthurmarquesazevedo&width=1000)
