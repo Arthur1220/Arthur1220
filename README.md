@@ -1,5 +1,20 @@
 <h1 align="left">Oi 👊, eu sou Arthur, estudante de Ciência da Computação.</h1>
 
+[![-----------------------------------------------------](/assets/Rectangle.png)](#separator)
+
+```js
+const User = {
+	name: "Arthur Marques Azevedo",
+	pronouns: ["He", "Him"],
+	hobbies: ["Watch Movies/Series", "Play Valorant"],
+	getImportantLinks: () => {
+		return ImportantLinks
+	},
+}
+```
+
+[![-----------------------------------------------------](/assets/Rectangle.png)](#separator)
+
 ## ⚙️ &nbsp;Stats Github
 
 <a href="https://github.com/Arthur1220/github-readme-stats">
