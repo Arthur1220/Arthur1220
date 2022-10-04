@@ -34,4 +34,4 @@ const User = {
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=arthurmarquesazevedo&unique={true|1|on|yes})
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=arthurmarquesazevedo&width=900)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=arthurmarquesazevedo&width=1000)
