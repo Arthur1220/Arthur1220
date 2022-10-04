@@ -26,12 +26,14 @@ const User = {
 
 <div style="height: 20px"></div>
 
+```
 <a href="https://github.com/Arthur1220/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&hide=contribs,prs&show_icons=true&theme=vision-friendly-dark"/>
 </a>
 <a href="https://github.com/Arthur1220/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&langs_count=7&theme=vision-friendly-dark" />
 </a>
+```
 
 ## 🛠 &nbsp;Languages
 <div style="display: inline_block"><br>
