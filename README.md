@@ -1,6 +1,4 @@
-<!--
-<h1 align="left">Opa!! Sou Arthur, estudante de Ciência da Computação e amante da tecnologia.</h1>
--->
+<h1 align="left">Opa!! Sou Arthur, estudante de Ciência da Computação.</h1>
 
 ```js
 const User = {
@@ -13,8 +11,8 @@ const User = {
 <h1 align="left">Status do GitHub.</h1>
 
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
-    	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&hide=prs,issues,contribs">
-    	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&hide=assembly,tex,roff">
+    	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&hide=prs,issues,contribs&theme=radical">
+    	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&hide=assembly,tex,roff&theme=radical">
  </div>
 
 <!--
