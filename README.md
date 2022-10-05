@@ -15,12 +15,12 @@ const User = {
     	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&theme=dark&layout=compact&hide=assembly,tex,roff&theme=radical">
  </div>
 
-<!--
-<div>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&langs_count=7"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&include_all_commits=true&count_private=true"/>
-</div>
--->
+<a href="https://github.com/Arthur1220/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur1220&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur1220&repo=convoychat" />
+</a>
 
 <h1 align="left">Linguagens que possuo algum conhecimento.</h1>
 <div style="display: inline_block"><br>
