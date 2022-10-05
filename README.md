@@ -5,9 +5,6 @@ const User = {
 	name: "Arthur Marques Azevedo",
 	pronouns: ["He", "Him"],
 	hobbies: ["Watch Movies/Series", "Play Valorant"],
-	getImportantLinks: () => {
-		return ImportantLinks
-	},
 }
 ```
 
