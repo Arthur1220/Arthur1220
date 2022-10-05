@@ -16,13 +16,8 @@ const User = {
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center" style="display: flex; align-items: center; gap: 20px;">
-   	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&hide=prs,issues,contribs">
-    	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&hide=assembly,tex,roff">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
 
 <h1 align="left">Linguagens que possuo algum conhecimento.</h1>
