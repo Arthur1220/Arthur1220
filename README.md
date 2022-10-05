@@ -10,7 +10,8 @@ const User = {
 	},
 }
 ```
- 
+<h1 align="left">GitHub Stats</h1>
+
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
     <img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&theme=gotham&show_icons=true&hide=prs,issues,contribs">
     <img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&theme=gotham&hide=assembly,tex,roff">
@@ -18,6 +19,7 @@ const User = {
 
   <div style="height: 20px"></div>
 
+<h1 align="left">Languages</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Arthur-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -25,4 +27,6 @@ const User = {
   <img align="center" alt="Arthur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
+
+<h1 align="left">Spotify</h1>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=arthurmarquesazevedo&width=1000)
