@@ -15,9 +15,7 @@ const User = {
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
     <img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&hide=prs,issues,contribs">
     <img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&hide=assembly,tex,roff">
-  </div>
-
-  <div style="height: 20px"></div>
+</div>
 
 <h1 align="left">Linguagens que possuo algum conhecimento.</h1>
 <div style="display: inline_block"><br>
