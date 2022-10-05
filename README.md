@@ -10,17 +10,13 @@ const User = {
 	},
 }
 ```
-
-<div align="center">
-  
+ 
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
     <img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&theme=gotham&show_icons=true&hide=prs,issues,contribs">
     <img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&theme=gotham&hide=assembly,tex,roff">
   </div>
 
   <div style="height: 20px"></div>
-
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
