@@ -11,9 +11,9 @@ typedef struct{
 
 <div>
   <a href="https://github.com/Arthur1220">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&theme=dark&show_icons=true&hide=prs,issues,contribs"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&theme=dark&show_icons=true&hide=prs,issues,contribs"/>
     
-  <img height="100em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&theme=dark&layout=compact&hide=assembly,tex,roff"/>
+  <img height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&theme=dark&layout=compact&hide=assembly,tex,roff"/>
 </div>
 
 <h1 align="left">Linguagens que possuo algum conhecimento.</h1>
