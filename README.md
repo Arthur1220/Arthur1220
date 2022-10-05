@@ -1,11 +1,10 @@
 <h1 align="left">Opa!! Sou Arthur, estudante de Ciência da Computação.</h1>
 
-```python
-const User = {
-	name: "Arthur Marques Azevedo",
-	pronouns: ["He", "Him"],
-	hobbies: ["Watch Movies/Series", "Play Valorant"],
-}
+```c
+typedef struct{
+	char name[50] = "Arthur Marques Azevedo";
+   	int age = 20;
+}Arthur;
 ```
 
 <h1 align="left">Status do GitHub.</h1>
