@@ -13,8 +13,8 @@ const User = {
 <h1 align="left">GitHub Stats</h1>
 
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
-    <img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&theme=gotham&show_icons=true&hide=prs,issues,contribs">
-    <img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&theme=gotham&hide=assembly,tex,roff">
+    <img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&hide=prs,issues,contribs">
+    <img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&hide=assembly,tex,roff">
   </div>
 
   <div style="height: 20px"></div>
