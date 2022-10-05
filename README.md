@@ -12,14 +12,9 @@ const User = {
 ```
 
 <h1 align="left">Status do GitHub.</h1>
-<div align="center">
-	<div align="center" style="display: flex; align-items: center; gap: 20px;">
-   		<img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&hide=prs,issues,contribs">
-    		<img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&hide=assembly,tex,roff">
-	</div>
-	
- 	<div style="height: 20px"></div>
-
+<div align="center" style="display: flex; align-items: center; gap: 20px;">
+   	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&hide=prs,issues,contribs">
+    	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&hide=assembly,tex,roff">
 </div>
 
 <h1 align="left">Linguagens que possuo algum conhecimento.</h1>
@@ -39,5 +34,3 @@ const User = {
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/azevedo-arthur/)](https://www.linkedin.com/in/azevedo-arthur/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurmarquesazevedo@gmail.com)](mailto:arthurmarquesazevedo@gmail.com)
-
-
