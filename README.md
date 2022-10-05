@@ -1,6 +1,6 @@
 <h1 align="left">Opa!! Sou Arthur, estudante de Ciência da Computação.</h1>
 
-```js
+```python
 const User = {
 	name: "Arthur Marques Azevedo",
 	pronouns: ["He", "Him"],
@@ -9,11 +9,6 @@ const User = {
 ```
 
 <h1 align="left">Status do GitHub.</h1>
-
-<div align="center" style="display: flex; align-items: center; gap: 20px;">
-    	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&theme=dark&show_icons=true&hide=prs,issues,contribs">
-    	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&theme=dark&layout=compact&hide=assembly,tex,roff">
- </div>
 
 <div>
   <a href="https://github.com/Arthur1220">
