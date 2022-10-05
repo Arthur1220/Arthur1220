@@ -12,27 +12,26 @@ const User = {
 ```
 
 <h1 align="left">Status do GitHub.</h1>
+
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
    	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&hide=prs,issues,contribs">
     	<img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&layout=compact&hide=assembly,tex,roff">
 </div>
 
 <h1 align="left">Linguagens que possuo algum conhecimento.</h1>
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<!--
 <div style="display: inline_block"><br>
   	<img align="center" alt="Arthur-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   	<img align="center" alt="Arthur-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   	<img align="center" alt="Arthur-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 	<img align="center" alt="Arthur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
--->
 
 <h1 align="left">Meu gosto musical.</h1>
 
