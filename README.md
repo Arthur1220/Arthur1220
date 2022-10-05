@@ -1,4 +1,6 @@
+<!--
 <h1 align="left">Opa!! Sou Arthur, estudante de Ciência da Computação e amante da tecnologia.</h1>
+-->
 
 ```js
 const User = {
