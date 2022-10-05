@@ -11,8 +11,6 @@ const User = {
 }
 ```
 
-<!– ## ⚙️ &nbsp;Stats Github ->
-
 <div align="center">
   
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
@@ -23,8 +21,6 @@ const User = {
   <div style="height: 20px"></div>
 
 </div>
-
-<!– ## 🛠 &nbsp;Languages –> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
