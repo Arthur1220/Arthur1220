@@ -1,4 +1,4 @@
-<h1 align="left">Oi 👊, eu sou Arthur, estudante de Ciência da Computação.</h1>
+<h1 align="left">opa, eu sou Arthur, estudante de ciência da computação e amante da tecnologia.</h1>
 
 ```js
 const User = {
@@ -10,7 +10,7 @@ const User = {
 	},
 }
 ```
-<h1 align="left">Status do GitHub.</h1>
+<h1 align="left">status do github.</h1>
 
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
     <img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&show_icons=true&hide=prs,issues,contribs">
@@ -19,7 +19,7 @@ const User = {
 
   <div style="height: 20px"></div>
 
-<h1 align="left">Linguagens que possuo algum conhecimento.</h1>
+<h1 align="left">linguagens que possuo algum conhecimento.</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Arthur-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -28,6 +28,6 @@ const User = {
 </div>
 
 
-<h1 align="left">Meu gosto musical.</h1>
+<h1 align="left">meu gosto musical.</h1>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=arthurmarquesazevedo&width=1000)
