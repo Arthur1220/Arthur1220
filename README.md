@@ -24,10 +24,6 @@ typedef struct{
 	<img align="center" alt="Arthur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
-<h1 align="left">Meu gosto musical.</h1>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=arthurmarquesazevedo&width=1000)
-
 <h1 align="left">Redes sociais.</h1>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/azevedo-arthur/)](https://www.linkedin.com/in/azevedo-arthur/)
