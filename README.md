@@ -3,7 +3,7 @@
 ```c
 typedef struct{
 	char name[50] = "Arthur Marques Azevedo";
-   	int age = 20;
+   	int age = 21;
 }Arthur;
 ```
 
