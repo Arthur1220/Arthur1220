@@ -11,7 +11,7 @@
   <a href="https://github.com/Arthur1220">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&theme=dark&show_icons=true&hide=prs,issues&hide_border=true"/>
     
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&theme=dark&layout=compact&hide=assembly,tex,roff&hide_border=true"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&theme=dark&layout=compact&hide=assembly,tex,roff,shell&hide_border=true"/>
 </div>
 
 ##
