@@ -7,8 +7,8 @@
 
 <br/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Arthur1220&rank_icon=github&theme=dark&show_icons=true&hide=prs,issues&hide_border=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1220&theme=dark&layout=compact&hide=assembly,tex,roff,shell&hide_border=true"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur1220&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arthur1220&theme=github_dark"/>
 
 <br/>
 
