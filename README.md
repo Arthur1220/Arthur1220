@@ -1,16 +1,16 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&random=false&width=500&lines=Hi%2C+I'm+Arthur+Azevedo+%F0%9F%91%8B;Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&random=false&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Arthur+Azevedo+%F0%9F%91%8B;Desenvolvedor+Fullstack" alt="Typing SVG" />
 </a>
 
 <br/>
 
-### About Me
+### Sobre Mim
 
-Computer Science graduate from Bahia, Brasil.  
-I build full-stack web apps, blockchain systems, and AI-powered solutions.  
-Open to freelance projects and new opportunities.
+Bacharel em Ciência da Computação, da Bahia, Brasil.  
+Desenvolvo aplicações web full-stack, sistemas blockchain e soluções com IA.  
+Aberto a projetos freelance e novas oportunidades.
 
 <br/>
 
@@ -20,7 +20,7 @@ Open to freelance projects and new opportunities.
 
 <br/>
 
-### **Languages**
+### **Linguagens**
 
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -43,7 +43,7 @@ Open to freelance projects and new opportunities.
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
-### **Databases & Cloud**
+### **Bancos de Dados & Cloud**
 
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -52,7 +52,7 @@ Open to freelance projects and new opportunities.
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
-### **Blockchain & AI**  
+### **Blockchain & IA**  
 ![Solidity](https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=ethereum&logoColor=black)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-000000?style=for-the-badge&logo=openzeppelin&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -60,7 +60,7 @@ Open to freelance projects and new opportunities.
 ![Gemini](https://img.shields.io/badge/Gemini_API-000000?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### **Tools & OS**
+### **Ferramentas & SO**
 
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -71,9 +71,9 @@ Open to freelance projects and new opportunities.
 
 <br/>
 
-### **Stats**
+### **Estatísticas**
 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur1220&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur1220&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&locale=pt_BR"/>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arthur1220&theme=github_dark"/>
 
 </div>
